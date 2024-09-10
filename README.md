@@ -1,2 +1,0 @@
-# Comparison.js
-Comparison.js
